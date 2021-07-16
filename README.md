@@ -1,6 +1,8 @@
 # demitriusdemarcus <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="30" height="30" />
 
-A teenager trying to learn programming, currently struggling with C++
+Hello, I am a teenager currently living in Vietnam. I love programming in HTML, Python, Javascript languages and I love reverse engineering. I am currently struggling to learn C++ and C.
+
+<i><b>My GitHub Stats:octocat::</b></i><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demitriusdemarcus&show_icons=true&theme=tokyonight)
 
